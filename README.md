@@ -1,16 +1,30 @@
-## Hi there 👋
+# Developer Profile
 
-<!--
-**dikay2104/dikay2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Information
 
-Here are some ideas to get you started:
+- **Name:** Pham Duy Khanh
+- **Facebook:** [duy.khanh.759984](https://www.facebook.com/duy.khanh.759984)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Summary
+
+Software engineer with experience in:
+- Java
+- JavaScript
+- React
+- Node.js
+- HTML
+- CSS
+- C
+
+## Current Project
+
+- **Tourhub**
+
+## Interests
+
+- Gundam
+- Movies
+
+---
+
+*Generated on 2025-06-17*
